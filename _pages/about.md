@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student of Computer Science and Technology. <a href='mail_to:huxue178@gmail.com'>:e-mail:</a>. 
+subtitle: Ph.D. Student of Computer Science and Technology.
 
 profile:
   align: right
