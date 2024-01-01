@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student of Computer Science and Technology. <a href='#'>huxue178@gmail.com</a>. 
+subtitle: Ph.D. Student of Computer Science and Technology. <a href='#'>:e-mail:huxue178@gmail.com</a>. 
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Nanshan, Chongqing University of Post and Telecomunications</p>
-    <p>Chongqing, China</p>
+    <p>Chongqing University of Post and Telecomunications</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
