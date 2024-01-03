@@ -5,7 +5,9 @@ date: 2023-12-31 22:25:00
 description: this is a post of my main study.
 tags: MOT
 categories: learn-posts
-tikzjax: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ## 引言
@@ -115,6 +117,8 @@ $$
 
 对于车辆搭载的传感器, 这里为了简单我们假设传感器可以直接观测到目标点的 $$x,y$$ 坐标. 所以我们可以定义观测为:
 
+
+
 $$
 \mathrm{z}_{i_t} = 
 
@@ -125,11 +129,10 @@ $$
 \end{bmatrix}=
 
 \begin{bmatrix}
-    \sqrt{(x_{i_{t}}-x_{t})^2+(y_{i_{t}}-y_{t})^2} \\
-    y \\
+    cos(\phi)x_i^w+sin(\phi)y_i^w - \sqrt{x_t^2+y_t^2} \\
+    -sin(\phi)x_i^w+cos(\phi)y_i^w \\
     \phi_{t}-\phi_{i_{t}}
 \end{bmatrix}
-
 $$
 
 上式的观测表示的是对 $$t$$ 时刻, 第 $$i$$ 个物体在智能车坐标系下的 $$x,y$$ 坐标. 
