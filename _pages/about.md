@@ -16,7 +16,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi Here. Welcome to Xue Hu's page! I am a first-year Ph.D. at the Fusion Lab at the Chongqing University of Post and Telecommucations, supervised by prof. Zhu. My Ph.D. research interests mainly focus on SLAM and MOT under dynamic environment of intelligent car.
+Hi Here. Welcome to Xue Hu's page! I am a first-year Ph.D. at the Fusion Lab at the Chongqing University of Post and Telecommucations, supervised by Prof. Zhu. My Ph.D. research interests mainly focus on SLAM and MOT under dynamic environment of intelligent car.
 
 I graduated with an MPhil from the Bohai University, supervised by Prof. Hongxia Cui. My MPhil research interests mainly in V-SLAM. Because of lab cooperation, I know other aspects, like SLAM, Drone devices developing.
 
