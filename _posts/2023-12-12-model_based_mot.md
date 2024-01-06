@@ -137,6 +137,16 @@ $$
 
 上式的观测表示的是对 $$t$$ 时刻, 第 $$i$$ 个物体在智能车坐标系下的 $$x,y$$ 坐标. 
 
+## 坐标系间的联系
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/demo.svg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    坐标系
+</div>
 
 ## 代码实现
 
